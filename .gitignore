@@ -1,0 +1,42 @@
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/cache/
+
+# MLflow
+mlruns/
+.mlflow/
+
+# Environment
+.env
+
+# Keep models and data
+!models/
+!data/
