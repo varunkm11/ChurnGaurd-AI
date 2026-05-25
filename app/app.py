@@ -28,7 +28,9 @@ from preprocess import load_data
 st.set_page_config(
     page_title="ChurnGuard AI",
     page_icon="📊",
-    layout="wide"
+    layout="wide",
+    initial_sidebar_state="expanded",
+    theme="dark"
 )
 
 # -----------------------------
