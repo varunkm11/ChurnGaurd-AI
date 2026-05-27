@@ -191,20 +191,12 @@ The project uses the Telco Customer Churn dataset with:
 - **matplotlib** - Static plots
 - **joblib** - Model serialization
 
-## 📄 License
 
-[Add your license here]
 
 ## 👨‍💻 Author
 
-[Your name/organization]
+Varun Kumar Singh
 
-## 📧 Support
-
-For issues and questions, please:
-1. Check [Troubleshooting](#troubleshooting) section
-2. Review [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md)
-3. Check Streamlit [documentation](https://docs.streamlit.io)
 
 ---
 
